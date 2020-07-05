@@ -2214,10 +2214,10 @@ GameObject:
   - component: {fileID: 1612587501}
   - component: {fileID: 1612587500}
   - component: {fileID: 1612587499}
-  - component: {fileID: 1612587503}
   - component: {fileID: 1612587504}
   - component: {fileID: 1612587505}
   - component: {fileID: 1612587506}
+  - component: {fileID: 1612587503}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged

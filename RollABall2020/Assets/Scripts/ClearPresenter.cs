@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class ClearPresenter : MonoBehaviour
 {
     [SerializeField] private Text m_clearText = null;
-    [SerializeField] private PiackUpCountPresenter m_pickUpPresenter = null; 
+    [SerializeField] private PickUpCountPresenter m_pickUpPresenter = null; 
     // Start is called before the first frame update
    private void Start()
     {

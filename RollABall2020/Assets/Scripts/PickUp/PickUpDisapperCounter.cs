@@ -41,7 +41,7 @@ public class PickUpDisapperCounter : MonoBehaviour
         if (m_colliderReceiveAction.IsTriggerEnter)
         {
             DissapperCount++;
-            PiackUpCountPresenter.CountDisplay(DissapperCount);
+            PickUpCountPresenter.CountDisplay(DissapperCount);
         }
 
 

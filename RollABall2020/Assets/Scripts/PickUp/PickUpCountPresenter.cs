@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class PiackUpCountPresenter : MonoBehaviour
+public class PickUpCountPresenter : MonoBehaviour
 {
     [SerializeField] private Text m_pickupCountText = null;
     private static int m_CpickUpCounter = 0;
